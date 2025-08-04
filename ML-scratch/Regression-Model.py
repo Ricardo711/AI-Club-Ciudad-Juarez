@@ -7,4 +7,4 @@ import time as time
 
 class LogisticRegression:
     def __init__(self):
-        pass
+        
