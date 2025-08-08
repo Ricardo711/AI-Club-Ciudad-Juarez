@@ -32,6 +32,8 @@ A short paragraph describing your project and its purpose.
 
 \## ✨ Features
 
+```bash
+
 \- Feature 1
 
 \- Feature 2
